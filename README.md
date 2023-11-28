@@ -9,4 +9,4 @@ Splitted the data into train and test for training and validating the model.
 I used top 8 ML algorithms for training and validating like Linear Regression, Lasso, Random Forest, Stochastic Gradient Descent, Gradient Boosting, AdaBoost, XGBoost and SVM.
 Random Forest, Gradient Boosting and XGBoost gives almost same accuracy.
 Then i did Hyperparameter Tuning using GridSearch CV to improve the accuracy, but there is no improvement.
-Finally, i predict the SalePrice of test data using xgboost and save the results in csv file.
+Finally, i predict the SalePrice of test data using xgboost and saved the results in csv file.
